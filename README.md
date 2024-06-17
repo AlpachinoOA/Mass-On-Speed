@@ -1,7 +1,7 @@
 # Mass on Speed
 
-<p align="center">
-  <img src="https://github.com/AlpachinoOA/Mass-On-Speed/tree/969284b2440729b9fdc5e9c29692da0b21c30cb7/Logo/MassOnSpeedLogo.jpg" alt="Mass on Speed Logo">
+<p align="left">
+  <img src="https://github.com/AlpachinoOA/Mass-On-Speed/assets/153074986/d21fa92f-dff7-435b-b94e-783f250d83e1" alt="Mass on Speed Logo" width="500">
 </p>
 
 ## Inspiration
@@ -13,6 +13,10 @@ We drew inspiration from the project “Hybrid Cocreation” by Viktoria Sandor,
 Throughout this project, we gained insights into integrating traditional sketching methods with modern computational tools. We explored the intricacies of color detection and its application in automating mass generation. Additionally, we learned to manage real-time data processing and remote collaboration, enhancing our skills in both technical and collaborative aspects.
 
 ## How We Built the Project
+
+<p align="left">
+  <img src="https://github.com/AlpachinoOA/Mass-On-Speed/assets/153074986/365a8d7c-a8c3-46f6-8cd1-2e3d504e44aa" alt="Workflow" width="700">
+</p>
 
 ### Generalized Flow
 1. **Live Stream Capture**: The design process is captured as a live stream.
@@ -49,5 +53,6 @@ With Mass on Speed, we aim to accelerate the early stages of urban design by int
   - Euglena
   - Bitmap+
 
-
 For more details on how to utilize Unity for Speckle, please check out [Speckle Unity's official GitHub page](https://github.com/specklesystems/speckle-unity/blob/main/README.md).
+
+This was our entry for the #BeyondTheSpeckleverse hackathon with Eda Özaltay.
