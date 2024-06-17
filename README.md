@@ -55,12 +55,13 @@ Throughout this project, we gained insights into integrating traditional sketchi
 With Mass on Speed, we aim to accelerate the early stages of urban design by integrating the tangible dimension of hand sketching with advanced computational tools. Our workflow not only enhances efficiency but also brings back the tactile experience as a valuable method of collaboration in the digital age.
 
 ## Requirements
-- **Unity**: Our version was 2022.1.23f1
+- **Unity**: We used Speckle playground scene (link below) with minor adjustments.
 - **Rhino 8**: Ensure you are using the latest version of Rhino.
 - **Plugins**: Install the following plugins:
   - Javid
   - Euglena
   - Bitmap+
+
 
 For more details on how to utilize Unity for Speckle, please check out [Speckle Unity's official GitHub page](https://github.com/specklesystems/speckle-unity/blob/main/README.md).
 
