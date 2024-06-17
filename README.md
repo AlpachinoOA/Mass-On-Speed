@@ -1,5 +1,9 @@
 # Mass on Speed
 
+<p align="center">
+  <img src="https://github.com/AlpachinoOA/Mass-On-Speed/tree/969284b2440729b9fdc5e9c29692da0b21c30cb7/Logo/MassOnSpeedLogo.jpg" alt="Mass on Speed Logo">
+</p>
+
 ## Inspiration
 Our journey began with a fascination for efficiency and digitalization in computational design. As architects and designers, we cherish the creative freedom of freehand sketching, which allows us to think with our hands. However, collaborative sketching presents significant challenges, particularly in a modern work environment where remote work is becoming increasingly prevalent. This inspired us to create an interactive workflow to bridge the gap between initial hand-drawn drafts and 3D massing and visualization.
 
