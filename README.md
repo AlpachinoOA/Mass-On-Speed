@@ -4,6 +4,15 @@
   <img src="https://github.com/AlpachinoOA/Mass-On-Speed/assets/153074986/d21fa92f-dff7-435b-b94e-783f250d83e1" alt="Mass on Speed Logo" width="500">
 </p>
 
+<p align="left">
+  <video src="https://github.com/AlpachinoOA/MassOnSpeed/assets/153074986/9571b9d7-bb32-42e4-a383-5f1b419f33e6" width="300" controls>
+  </video>
+</p>
+
+<p align="left">
+  <em>Check out our video explaining the project</em>
+</p>
+
 ## Inspiration
 Our journey began with a fascination for efficiency and digitalization in computational design. As architects and designers, we cherish the creative freedom of freehand sketching, which allows us to think with our hands. However, collaborative sketching presents significant challenges, particularly in a modern work environment where remote work is becoming increasingly prevalent. This inspired us to create an interactive workflow to bridge the gap between initial hand-drawn drafts and 3D massing and visualization.
 
