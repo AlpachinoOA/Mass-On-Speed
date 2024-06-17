@@ -61,6 +61,7 @@ With Mass on Speed, we aim to accelerate the early stages of urban design by int
   - Javid
   - Euglena
   - Bitmap+
+ - **OBS**: In order to capture any livestream either from window or camera. 
 
 
 For more details on how to utilize Unity for Speckle, please check out [Speckle Unity's official GitHub page](https://github.com/specklesystems/speckle-unity/blob/main/README.md).
