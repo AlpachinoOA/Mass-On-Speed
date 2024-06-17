@@ -65,4 +65,6 @@ With Mass on Speed, we aim to accelerate the early stages of urban design by int
 
 For more details on how to utilize Unity for Speckle, please check out [Speckle Unity's official GitHub page](https://github.com/specklesystems/speckle-unity/blob/main/README.md).
 
-This was our entry for the #BeyondTheSpeckleverse hackathon with Eda Özaltay.
+This was our entry for the #BeyondTheSpeckleverse hackathon.
+
+Alp Okan Atakan & Eda Özaltay.
